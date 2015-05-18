@@ -96,7 +96,7 @@ html, body {
    background: #F65A5B ;
  color: #fff;
  cursor: pointer;
- display: inline-block;
+ display: inline-block; /*make the bedge circle*/
  font-size: 15px;
    line-height: 40px;
    min-width: 40px;
